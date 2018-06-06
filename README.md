@@ -3,6 +3,7 @@
 [http://www.manning.com/dimidukkhurana][0]
 
 ## Compiling the project
+### I ran this project on cloudera cdh5.8.0, so I upgrade maven dependencies.
 
 Code is managed by maven. Be sure to install maven on your platform
 before running these commands. Also be aware that HBase is not yet
