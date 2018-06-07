@@ -1,0 +1,5 @@
+# Chapter 2
+./bin/launcher users add HMS_Surprise "Patric O'Brian" aubrey@sea.com abc123
+java -cp target/twitbase-1.0.0.jar HBaseIA.TwitBase.UsersTool add GrandpaD "Fyodor Dostoyevsky" fyodor@brothers.net abc123
+java -cp target/twitbase-1.0.0.jar HBaseIA.TwitBase.UsersTool add  SirDoyle "Sir Arthur Conan Doyle" art@TheQueensMen.co.uk abc123
+./bin/launcher users list
